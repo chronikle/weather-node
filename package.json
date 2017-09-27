@@ -1,0 +1,23 @@
+{
+  "name": "weather-node",
+  "version": "1.0.0",
+  "description": "A simple weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chronikle/weather-node.git"
+  },
+  "author": "Alexandru Caprarescu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chronikle/weather-node/issues"
+  },
+  "homepage": "https://github.com/chronikle/weather-node#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "yargs": "^9.0.1"
+  }
+}
